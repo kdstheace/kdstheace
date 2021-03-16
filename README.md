@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on several projects
 - 🌱 I’m currently learning JAVA, PYTHON, R, AZURE etc
-- 📫 How to reach me: ... hiswing91@gmail.com , (+82)10-5612-0881
+- 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - ⚡ Fun fact: 親子丼 is the best food
 <!--
 **kdstheace/kdstheace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
