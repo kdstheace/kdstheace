@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on several projects
+- ⚡ Git Page: https://kdstheace.github.io/ (Still working on)
 - 🌱 I’m currently learning JAVA, PYTHON, R, AZURE etc
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
-- ⚡ Fun fact: 親子丼 is the best food
 - 💬 About Repositories:<br>
   **Projects > "Project_ProjectName"**<br>
   **Self-Studies > "Study_StudySubjectName"**
