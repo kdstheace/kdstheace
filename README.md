@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⚡ Git Page: https://kdstheace.github.io/ (Still working on)
-- 🌱 I’m currently learning JAVA, PYTHON, R, AZURE, Machine Learning, Deep Learning
+- 🌱 I’m currently learning Java, Python, R, Azure, Machine Learning, Deep Learning
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - 💬 About Repositories:<br>
   **Projects > "Project_ProjectName"**<br>
