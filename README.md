@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ Git Page: https://kdstheace.github.io/ (Still working on)
+- ⚡ Git Page: https://kdstheace.github.io/ (Still working on, official release: 2021-04-23)
 - 🌱 I’m currently learning Java, Python, R, Azure, Machine Learning, Deep Learning
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - 💬 About Repositories:<br>
