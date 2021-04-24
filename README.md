@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Skills: Java, JavaScript, Python, R, Azure, Machine Learning, Deep Learning
+- 🌱 Skills: PHP, MySQL, VueJS, Java, Python, Machine Learning
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - ⚡ Git Page: https://kdstheace.github.io/ (Still working on, official release: 2021-04-24 23:59)
 - 💬 About Repositories:<br>
