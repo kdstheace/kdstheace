@@ -2,7 +2,7 @@
 
 - 🌱 Skills: Java, Python, Oracle, MySQL, VueJS, JavaScript, Machine Learning (Currently, PHP)
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
-- ⚡ Git Page: https://kdstheace.github.io/ (Still working on, official release: 2021-04-24 23:59)
+- ⚡ Git Page: https://kdstheace.github.io/
 - 💬 About Repositories:<br>
   **Projects > "Project_ProjectName"**<br>
   **Self-Studies > "Study_StudySubjectName"**<br>
