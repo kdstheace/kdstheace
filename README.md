@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Skills: Java, Python, Oracle, MySQL, VueJS, JavaScript, Machine Learning (Currently, PHP)
+- 🌱 Skills: Java, Python, Oracle, MySQL, VueJS, JavaScript, Machine Learning
 - ⚡ Git Page: https://kdstheace.github.io/ << Newly Updated!!(21.05.17)
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - 💬 About Repositories:<br>
