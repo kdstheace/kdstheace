@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 Java(Spring Boot), Python(Flask, DeepLearning), Oracle, MySQL, 
+- 🌱 Java(Spring Boot), Python(Flask, DeepLearning), 
+- 🌱 Oracle, MySQL, JPA, SQLAlchemy 
 - 🌱 VueJS, JavaScript, jQuery
 - 🌱 Linux(CentOS, Ubuntu), AWS
 - ⚡ Git Page: https://kdstheace.github.io/
