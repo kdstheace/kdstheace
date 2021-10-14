@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 Skills: Java(Spring Boot), Python(Flask, DeepLearning), PHP, Oracle, MySQL, VueJS, JavaScript, jQuery
+- 🌱 Java(Spring Boot), Python(Flask, DeepLearning), Oracle, MySQL, 
+- 🌱 VueJS, JavaScript, jQuery
+- 🌱 Linux(CentOS, Ubuntu), AWS
 - ⚡ Git Page: https://kdstheace.github.io/
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - 💬 About Repositories:<br>
