@@ -2,7 +2,7 @@
 
 - 🌱 Java(Spring Boot), Python(Flask, DeepLearning), 
 - 🌱 Oracle, MySQL, JPA, SQLAlchemy 
-- 🌱 VueJS, JavaScript, jQuery
+- 🌱 VueJS, JavaScript, jQuery, P5js
 - 🌱 Linux(CentOS, Ubuntu), AWS
 - ⚡ Git Page: https://kdstheace.github.io/
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
