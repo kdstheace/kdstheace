@@ -4,6 +4,7 @@
 - 🌱 Oracle, MySQL, JPA, SQLAlchemy 
 - 🌱 VueJS, JavaScript, jQuery, P5js
 - 🌱 Linux(CentOS, Ubuntu), AWS
+- currently working in Japan
 - ⚡ Git Page: https://kdstheace.github.io/
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - 💬 About Repositories:<br>
