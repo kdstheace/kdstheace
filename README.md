@@ -5,6 +5,7 @@
 - 🌱 VueJS, JavaScript, jQuery, P5js
 - 🌱 Linux(CentOS, Ubuntu), AWS
 - currently working in Japan
+- currently working on RESTful API Blacksmith project
 - ⚡ Git Page: https://kdstheace.github.io/
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - 💬 About Repositories:<br>
