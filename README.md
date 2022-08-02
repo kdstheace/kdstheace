@@ -2,7 +2,7 @@
 
 - 🌱 Java(Spring Boot), Python(Flask, DeepLearning), 
 - 🌱 Oracle, MySQL, JPA, SQLAlchemy 
-- 🌱 VueJS, JavaScript, jQuery, P5js
+- 🌱 ReactJS, JavaScript, jQuery, P5js
 - 🌱 Linux(CentOS, Ubuntu), AWS
 - currently working in Japan
 - currently working on RESTful API Blacksmith project
