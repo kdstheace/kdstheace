@@ -6,7 +6,7 @@
 - 🌱 Linux(CentOS, Ubuntu), AWS
 - currently working in Japan
 - currently working on RESTful API Blacksmith project, Functional Programming
-- ⚡ Git Page: https://kdstheace.github.io/
+- ⚡ Git Page: https://kdstheace.github.io/ => Currently on construction
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - 💬 About Repositories:<br>
   **Projects > "Project_ProjectName"**<br>
