@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🌱 Java(Spring Boot), Python(Flask, DeepLearning), 
+- 🌱 Java, Python, JavaScript
 - 🌱 Oracle, MySQL, JPA, SQLAlchemy 
-- 🌱 ReactJS, JavaScript, jQuery, P5js, NEXTJS
-- 🌱 Linux(CentOS, Ubuntu), AWS
+- 🌱 ReactJS, , jQuery, NEXTJS
+- 🌱 Linux(CentOS, Ubuntu), AWS, GCP
 - currently working in Japan
 - currently working on RESTful API Blacksmith project, Functional Programming
-- ⚡ Git Page: https://kdstheace.github.io/ => Currently on construction
+- ⚡ Git Page: https://kdstheace.github.io/
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
 - 💬 About Repositories:<br>
   **Projects > "Project_ProjectName"**<br>
