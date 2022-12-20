@@ -8,9 +8,9 @@
 - currently working on RESTful API Blacksmith project, Functional Programming
 - ⚡ Git Page: https://kdstheace.github.io/
 - 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
-- 💬 About Repositories:<br>
+<!-- - 💬 About Repositories:<br>
   **Projects > "Project_ProjectName"**<br>
-  **Self-Studies > "Study_StudySubjectName"**<br>
+  **Self-Studies > "Study_StudySubjectName"**<br> -->
   
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdstheace&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
