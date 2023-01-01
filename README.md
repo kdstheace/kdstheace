@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- Cloud Engineer!
 - 🌱 Java, Python, JavaScript
 - 🌱 Oracle, MySQL, JPA, SQLAlchemy 
 - 🌱 ReactJS, , jQuery, NEXTJS
