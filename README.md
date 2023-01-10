@@ -7,7 +7,7 @@
 - currently working in Japan
 - currently working on RESTful API Blacksmith project, Functional Programming
 - ⚡ Git Page: https://kdstheace.github.io/
-- 📫 How to reach me: ... hiswing91@gmail.com, KAKAO ID: yonseiyongin
+- 📫 How to reach me: ... keepgoingandtrust@gmail.com, KAKAO ID: yonseiyongin
 <!-- - 💬 About Repositories:<br>
   **Projects > "Project_ProjectName"**<br>
   **Self-Studies > "Study_StudySubjectName"**<br> -->
