@@ -2,7 +2,6 @@
 - Cloud Engineer!
 - 🌱 Java, Python, JavaScript
 - 🌱 Oracle, MySQL, JPA, SQLAlchemy 
-- 🌱 ReactJS, , jQuery, NEXTJS
 - 🌱 Linux(CentOS, Ubuntu), AWS, GCP expert
 - currently working in Japan
 - currently working on RESTful API Blacksmith project, Functional Programming
