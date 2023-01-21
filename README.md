@@ -4,7 +4,7 @@
 - 🌱 Oracle, MySQL, JPA, SQLAlchemy 
 - 🌱 Linux(CentOS, Ubuntu), AWS, GCP expert
 - currently working in Tokyo, Japan
-- currently working on RESTful API Blacksmith project, Functional Programming
+- currently working on RESTful API Blacksmith project, Functional Programmings
 - ⚡ Git Page: https://kdstheace.github.io/
 - 📫 How to reach me: ... keepgoingandtrust@gmail.com, KAKAO ID: yonseiyongin
 <!-- - 💬 About Repositories:<br>
