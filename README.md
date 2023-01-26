@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Cloud Engineer!
 - 🌱 Java, Python, JavaScript
-- 🌱 Oracle, MySQL, JPA, SQLAlchemy 
+- 🌱 Oracle, MySQL, PostgreSQL, JPA, SQLAlchemy 
 - 🌱 Linux(CentOS, Ubuntu), AWS, GCP expert
 - currently working in Tokyo, Japan
 - currently working on RESTful API Blacksmith project, Functional Programmings
