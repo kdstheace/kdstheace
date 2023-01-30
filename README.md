@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Cloud Engineer!
+- Cloud Engineer, Backend developer
 - 🌱 Java, Python, JavaScript(
 - 🌱 Oracle, MySQL, PostgreSQL, JPA, SQLAlchemy 
 - 🌱 Linux(CentOS, Ubuntu), AWS, GCP expert
