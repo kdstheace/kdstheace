@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Cloud Engineer, Backend developer
-- 🌱 Java, Python, JavaScript(
+- 🌱 Java, Python, JavaScript(ReactJS)
 - 🌱 Oracle, MySQL, PostgreSQL, JPA, SQLAlchemy 
 - 🌱 Linux(CentOS, Ubuntu), AWS, GCP expert
 - currently working in Tokyo, Japan
