@@ -2,7 +2,7 @@
 - App Developer
 - 🌱 Java, Python, JavaScript
 - 🌱 Oracle, MySQL, PostgreSQL, JPA, SQLAlchemy 
-- 🌱 Linux(CentOS, Ubuntu), AWS, GCP, FireBase
+- 🌱 Linux, AWS, GCP, FireBase
 - currently working in Tokyo, Japan
 - currently working on RESTful API Blacksmith project, Functional Programmings
 - ⚡ Git Page: https://kdstheace.github.io/
